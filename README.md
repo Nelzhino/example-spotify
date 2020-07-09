@@ -66,3 +66,34 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Full List of Visual Studio Code Packages
+	• Atom Keymap
+	• Auto Close Tag
+	• Auto Complete Tag
+	• Auto Rename Tag
+	• Color Highlight
+	• Copy Relative Path
+	• Debugger for Chrome
+	• Document THis
+	• ESLint
+	• Flow Language Support
+	• GraphQL for VSCode
+	• Language Support for Java
+	• Node Debug 2
+	• npm Intellisense
+	• One Dark
+	• Path Intellisense
+	• Prettier - Code formatter
+	• Project Manager
+	• Rainbow Brackets
+	• React Native Tools
+	• React-Native/React/Redux for es6/es7
+	• Ruby
+	• Settings Sync
+	• SVG Viewer
+	• TODO Highlight
+	• vscode-icons
+	• vscode-styled-components
+    • vscode-styles-jsx
